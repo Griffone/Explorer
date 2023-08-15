@@ -70,6 +70,7 @@ nav {
 
 ul {
 	margin: 0 auto;
+	width: fit-content;
 }
 
 a {
@@ -85,6 +86,7 @@ nav ul {
 
 ul li {
 	margin: .1em auto;
+	text-align: center;
 }
 
 address ul a,
